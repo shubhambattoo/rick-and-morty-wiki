@@ -14,3 +14,9 @@ a {
 * {
   box-sizing: border-box;
 }
+
+@font-face {
+  font-family: 'GetSchwifty';
+  src: url('./../public/get-schwifty.ttf')
+    format('truetype');
+}
